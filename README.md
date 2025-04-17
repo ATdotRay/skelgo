@@ -1,5 +1,5 @@
 # SKELGO
-skelgo si a cli tool that prints a tree of ayoru current directory structure
+skelgo is a cli tool that prints a tree of your current directory structure
 
 # Example
 ```bash
